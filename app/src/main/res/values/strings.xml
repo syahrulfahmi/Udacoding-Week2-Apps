@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Udacoding Week 2 Apps</string>
+    <string name="title_activity_physic_calculate">PhysicCalculateActivity</string>
+    <string name="tab_text_1">Luas</string>
+    <string name="tab_text_2">Volume</string>
+    <string name="app_select_convertion_first">Pilih satuan awal</string>
+    <string name="app_select_convertion_last">Pilih satuan akhir</string>
+    <string name="app_splash_screen">Physics Converter</string>
+    <string name="app_welcome">Selamat Datang</string>
+    <string name="app_log_in">Masuk</string>
+    <string name="app_user_name_hint">Nama Pengguna</string>
+    <string name="app_password_hint">Kata Sandi</string>
+    <string name="app_user_name_should_be_filled">Nama pengguna harus diisi</string>
+    <string name="app_password_should_be_filled">Kata sandi harus diisi</string>
+    <string name="app_password_cannot_less_than_some_digits">Kata sandi tidak boleh kurang dari 6 digit</string>
+    <string name="app_wrong_login">Nama pengguna atau kata sandi salah</string>
+    <string name="app_physics_calculate">Hitung Fisika</string>
+    <string name="app_convert_unit">Konversi Jarak</string>
+    <string name="app_calculate_result">Hasil:</string>
+    <string name="app_result_hint">0</string>
+    <string name="app_length_hint">Panjang (m)</string>
+    <string name="app_width_hint">Lebar (m)</string>
+    <string name="app_height_hint">Tinggi (m)</string>
+    <string name="app_calculate">Hitung</string>
+    <string name="app_calculate_reset">Reset</string>
+    <string name="app_length_should_be_filled">Panjang tidak boleh kosong</string>
+    <string name="app_width_should_be_filled">Lebar tidak boleh kosong</string>
+    <string name="app_heigth_should_be_filled">Tinggi tidak boleh kosong</string>
+    <string name="app_login_success">Login Berhasil</string>
+    <string name="app_number_should_be_filled">Angka harus diisi</string>
+
+    <string-array name="array_distance">
+        <item>km</item>
+        <item>hm</item>
+        <item>dam</item>
+        <item>m</item>
+        <item>dm</item>
+        <item>cm</item>
+        <item>mm</item>
+    </string-array>
+</resources>
